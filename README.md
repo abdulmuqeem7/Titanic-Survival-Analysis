@@ -1,9 +1,9 @@
 # Titanic-Survival-Analysis
 
-Survivors According to Gender
+did not Survived According to Gender
 Female
-- Survived -
-- did not Survived -
+- did not Survived - 314
 Male
-- Survived -
-- did not Survived -
+- did not Survived -517
+
+The whole Analysis and Cleaning was done using Python and libraries like NumPy, Pandas, Matplotlib, Seaborn
